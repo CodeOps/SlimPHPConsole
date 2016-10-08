@@ -77,7 +77,7 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-namespace Amenadiel\SlimPHPConsole;
+namespace CodeOps\SlimPHPConsole;
 
 class PHPConsoleWriter extends \Slim\Middleware
 {
