@@ -7,7 +7,7 @@
     "homepage": "http://github.com/codeops/SlimPHPConsole",
     "license": "MIT",
     "authors": [{
-        "name": "Felipe Figueroa",
+        "name": "Felipe Figueroa"
     }],
     "require": {
         "php-console/php-console": "~3.1",
